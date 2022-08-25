@@ -1,0 +1,87 @@
+.mat-card {
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border: #05458a solid;
+}
+.mat-card#first-card{
+    padding: 0;
+}
+div#profile-background{
+    display: flex;
+    z-index: 1;
+}
+div#profile-background img{
+    width: 100%;
+    border-radius: 32px 32px 0 0;
+}
+.profile-image{
+    border-radius: 60%;
+    border: #666;
+    width: 152px;
+    height: 152px;
+    margin-top: -110px;
+    z-index: 1;
+}
+div#info-actions{
+    display: flex;
+}
+.btn-edit{
+display: inline;
+background: #0000;
+}
+header{
+background-color: #666;
+padding: 10px;
+text-align: center;
+font-size: 35px;
+color: white;
+}
+
+div.btn-right{
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: 1em;
+margin-right: 0.5em;
+}
+nav{
+    background-color: rgb(197, 67, 67);
+    padding: 10px;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+    text-size-adjust: 10px;
+}
+#info-company{
+    font-size: 20px;
+
+}
+div span {
+    font-size: 20px;
+}
+.icono{
+    width: 10px;
+    display: inline;
+}
+.lista{
+    margin: 10px 10px;
+    padding: 20px;
+    border-radius: 32px;
+    border: #05458a solid; 
+    width: 95%;
+    display: inline-block;
+}
+div h2{
+    font-size: 30px;
+    display:inline
+}
+.lista .btn-edit{
+    display: inline;
+    position: relative;
+    padding: 0;
+    left: 98%;
+    
+}
+
+
+    
